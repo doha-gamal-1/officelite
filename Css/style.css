@@ -5,11 +5,11 @@
 }
 @font-face {
   font-family: kumbhsans-BOLD;
-  src: url(..fonts/KumbhSans-Bold.ttf);
+  src: url('../fonts/KumbhSans-Bold.ttf');
 }
 font-face {
   font-family: kumbhsans-REGULAR;
-  src: url(..fonts/KumbhSans-Regular.ttf);
+  src: url('../fonts/KumbhSans-Regular.ttf');
 }
 .logo {
   padding: 50px 20px 19px 50px;
